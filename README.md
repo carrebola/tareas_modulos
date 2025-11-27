@@ -5,6 +5,7 @@ Aplicación web desarrollada con React y TypeScript para que estudiantes visuali
 ## 📋 Descripción
 
 Esta aplicación permite a los estudiantes:
+
 - Visualizar los módulos correspondientes a su ciclo formativo
 - Gestionar tareas asociadas a cada módulo
 - Realizar seguimiento de notas y estados de tareas
@@ -28,17 +29,20 @@ Antes de comenzar, asegúrate de tener instalado:
 ## 📦 Instalación Rápida
 
 1. Clona el repositorio:
+
 ```bash
 git clone <url-del-repositorio>
 cd tareas_modulos
 ```
 
 2. Instala las dependencias:
+
 ```bash
 npm install
 ```
 
 3. Inicia el servidor de desarrollo:
+
 ```bash
 npm run dev
 ```
@@ -67,11 +71,14 @@ tareas_modulos/
 └── vite.config.ts
 ```
 
-## 📚 Documentación Completa
+## 📚 Documentación
+
+### Documentación Completa
 
 Para una guía detallada sobre el desarrollo del proyecto, metodología Agile, configuración y conceptos técnicos, consulta la [documentación completa](./DOCUMENTACION.md).
 
 La documentación incluye:
+
 - Especificaciones detalladas del proyecto
 - Casos de uso
 - Configuración del entorno de desarrollo
@@ -80,6 +87,19 @@ La documentación incluye:
 - Conceptos clave de React y TypeScript
 - Arquitectura de datos y persistencia
 - Y mucho más...
+
+### Historias de Usuario
+
+Las historias de usuario detalladas con tareas específicas se encuentran en la carpeta [`docs/historias/`](./docs/historias/).
+
+Cada historia incluye:
+
+- Descripción y criterios de aceptación
+- Lista detallada de tareas con checkboxes para seguimiento
+- Notas técnicas y estimaciones
+- Prioridad
+
+Estas historias están diseñadas para facilitar la creación de Issues en GitHub Projects y el seguimiento del progreso del proyecto.
 
 ## 🎯 Stack Tecnológico
 
