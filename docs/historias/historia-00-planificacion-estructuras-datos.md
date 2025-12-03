@@ -171,3 +171,7 @@ Ninguna - Esta es la historia base
 - Esta historia debe completarse antes de comenzar con Historia 1
 - Es importante tener bien definidas las estructuras para evitar refactorizaciones posteriores
 - Los datos de ejemplo facilitarán el desarrollo y testing
+
+
+---
+[⬅️ Volver al Índice](./README.md) | [🏠 Volver al Inicio](../../README.md)

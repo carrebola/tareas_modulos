@@ -191,3 +191,8 @@ src/
 - Los componentes pueden ser básicos, se mejorarán con el tiempo
 - El contexto de autenticación se completará en Historia 3
 
+
+
+
+---
+[⬅️ Volver al Índice](./README.md) | [🏠 Volver al Inicio](../../README.md)
